@@ -1,0 +1,23 @@
+td {
+    padding: 5px;
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    background-color: white;
+}
+
+table {
+    border-collapse: collapse;
+    
+}
+
+td:hover {
+    background-color: black;
+}
+
+button {
+    border: 2px solid orange;
+    position: fixed;
+    top: 660px;
+}
